@@ -1,0 +1,6 @@
+Hi everyone!
+
+This repository is my personal journey for working on Java challenges.
+There are two folders inside this repository:
+1. Algorithms
+2. Java challenges
